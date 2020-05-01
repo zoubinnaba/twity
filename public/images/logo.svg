@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="dessin.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-81.428571"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1319"
+     inkscape:window-height="713"
+     inkscape:window-x="47"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#00ffff;stroke:#00efff;stroke-width:0.09825168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.90343,76.563226 c -13.97682,10.740846 -28.68707,7.585122 -27.83845,38.294364 l -4.61199,15.64914 7.61534,-25.45625 1.1112,0.33242 -7.53196,25.17755 1.60132,0.0719 3.75578,-12.74414 c 10.76659,-10.32915 21.80332,-13.90632 25.08014,-27.776412 l -6.65863,1.194385 -0.13266,-0.0034 7.10042,-2.655301 c 0.63264,-3.376051 0.83604,-7.333319 0.50949,-12.084191 z"
+       id="path14"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.22015572px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43537793"
+       x="134.84846"
+       y="114.29551"
+       id="text4551"
+       transform="scale(0.9023086,1.1082683)"><tspan
+         sodipodi:role="line"
+         id="tspan4549"
+         x="134.84846"
+         y="114.29551"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.22015572px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.43537793">Twitty</tspan></text>
+  </g>
+</svg>
